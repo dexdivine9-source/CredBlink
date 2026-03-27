@@ -1,0 +1,5 @@
+{
+  "name": "CredBlink",
+  "description": "High-fidelity GitHub-to-Solana Blink bridge for developer verification.",
+  "requestFramePermissions": []
+}
